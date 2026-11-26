@@ -1,0 +1,5 @@
+def add(a: int, b: int) -> int:
+    """Повертає суму двох чисел."""
+    return a + b
+
+print("Result:", add(2, 3))
